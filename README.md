@@ -5,10 +5,16 @@
 
 ---
 >看看该手动的效果，轻轻松松上1000不成问题，但是如果突破了1000就成问题（70%的概率是刷的），我现在已经被微信给拉黑了，分数传不上去，先立个flag：
+
 ![1](http://img.blog.csdn.net/20180107124234076?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvQW5fRmVuZ196/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
 ![5](http://img.blog.csdn.net/20180107125521992?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvQW5fRmVuZ196/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
 看看效果：
+
 ![](./resource/image/jump.gif)
+
+![6](http://img.blog.csdn.net/20180107132235130?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvQW5fRmVuZ196/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 可能刚开始上手的时候，因为时间距离之间的关系把握不恰当，只能跳出几个就掉到了台子下面。**如果能利用图像识别精确测量出起始和目标点之间测距离，就可以估计按压的时间来精确跳跃。**
 
